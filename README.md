@@ -11,8 +11,8 @@ A classic chess game that includes special moves: En Passant, Roque and Promotio
 
 ## :bulb: Prerequisites
 
-You will need Java 11 SDK installed
+You will need Java 11 JDK and Eclipse or another IDE compatible with Java 11 installed
 
 ## ⚡How to execute
 
-To run the game you need to copy the project and run the file in: "src>application>program.java"
+To run the game you need to open your IDE, copy the project and run the file in: "src>application>program.java"
