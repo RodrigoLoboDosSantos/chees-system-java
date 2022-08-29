@@ -9,5 +9,10 @@ A classic chess game that includes special moves: En Passant, Roque and Promotio
 - `Impossible to break the rules`: When making each move the game does not allow you to escape the movement of each piece
 - `Simple look`: The game has a cleaner look making it easy to understand
 
+## :bulb: Prerequisites
+
+You will need Java 11 SDK installed
+
+## ⚡How to execute
 
 To run the game you need to copy the project and run the file in: "src>application>program.java"
